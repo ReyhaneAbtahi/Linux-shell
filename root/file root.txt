@@ -1,0 +1,3 @@
+user root.txt,C:\Users\ya mahdi\documents\visual studio 2015\Projects\Project35\Project35\root,reyhane,Sun Jan 20 14:05:54 2019,Thu Jan 17 10:25:22 2019,1
+file root.txt,C:\Users\ya mahdi\documents\visual studio 2015\Projects\Project35\Project35\root,reyhane,Sun Jan 20 14:05:54 2019,Thu Jan 17 10:25:22 2019,1
+dir root.txt,C:\Users\ya mahdi\documents\visual studio 2015\Projects\Project35\Project35\root,reyhane,Sun Jan 20 14:05:54 2019,Thu Jan 17 10:25:22 2019,1

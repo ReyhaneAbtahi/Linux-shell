@@ -1,0 +1,24 @@
+su username : change user to username
+passwd(by users) : change password
+passwd username(by admin) : change username's password
+passwd -l time username(just by admin) : make usernames'time longer
+create user(just by admin) : create a new user
+chgr username(just by amin) : change group(make username admin)
+cd dirname(path) : change working directory
+pwd : print current working directory 
+mkdir dirname : make new directory
+string > filename : overwrite string on filename(if the string was the name of a file overwrite the content on filename)
+string >> filename : append string to filename(if the string was the name of a file append the content to filename)
+cat filename : print the content of filename
+rm filename : delete filename
+rm-r dirname(path) : delete directory
+cp file1(path1) file2(path2) : copy file1 to file2
+mv file1(path1) file2(path2) : move file1 to file2
+ls : list current directory
+exif filename : print filename information
+filechmode filename : change filename access
+dirchmode directory : change directory access
+wc filename : print the number of words and sentences of filename
+clear : clear the screen
+searchfile : find the address of filename
+searchdir : find the address of dirname
